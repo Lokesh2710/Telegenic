@@ -1,0 +1,39 @@
+body {
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: 1600px 900px;
+}
+.button {
+  background-color: black; /* Green */
+  border-color:black;
+  border: 13px double #110101;
+  border-radius: 20px;
+  text-shadow: 2px 2px #544F4F;
+  color: white;
+  padding: 12px 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  font-family: 'Staatliches', cursive;
+}
+h1 {
+color: red;
+letter-spacing: 5px;
+font-family: 'Staatliches', cursive;
+font-size: 50px;
+font-weight: bold;
+margin-top: 0px;
+margin-bottom: 1px;
+}
+h2 {
+color: black;
+letter-spacing: 5px;
+font-family: 'Staatliches', cursive;
+font-size: 50px;
+font-weight: bold;
+margin-top: 0px;
+margin-bottom: 1px;
+}

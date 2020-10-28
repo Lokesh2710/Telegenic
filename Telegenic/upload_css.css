@@ -1,0 +1,12 @@
+#login_form{
+    border: greenyellow;
+    width: 30%;
+    border-radius: 5px;
+    margin: 100px auto;
+   backface-visibility: visible;
+    height: 400%;
+    width: 20%;
+    padding: 30px;
+    background: rgba(0, 0, 0, 0.23);
+    color: black;
+}  

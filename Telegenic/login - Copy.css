@@ -1,0 +1,69 @@
+
+.button {
+  background-color: black; /* Green */
+  border-color:black;
+  border: 13px double #110101;
+  border-radius: 20px;
+  text-shadow: 2px 2px #544F4F;
+  color: white;
+  padding: 12px 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  font-family: 'Staatliches', cursive;
+}
+#in
+{
+  border-radius: 20px;
+  border-color:black;
+  border: 13px #110101;
+  background-color: red;
+  color: white;
+  font-family: 'Staatliches', cursive;
+  height: 50%;
+    width: 100%;
+    padding: 10px;
+}
+#bt
+{
+  border-radius: 20px;
+  border-color:black;
+  border: 13px #110101;
+  background-color: white;
+  color: black;
+  font-family: 'Staatliches', cursive;
+  height: 50%;
+    width: 100%;
+    padding: 10px;
+}
+#label {
+  text-align: left;
+  font-weight: bold;
+  font-size: 20px;
+  color:black;
+}
+#h1 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 40px;
+  color: grey;
+}
+#login_form{
+    border: greenyellow;
+    width: 30%;
+    border-radius: 5px;
+    margin: 100px auto;
+   backface-visibility: visible;
+    height: 400%;
+    width: 20%;
+    padding: 30px;
+    background: rgba(0, 0, 0, 0.23);
+    color: black;
+}   
+#btn{
+    background-color: greenyellow;
+    color: black;
+    margin-left: 70%;
+    padding: 5px;
+}
